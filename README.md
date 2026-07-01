@@ -1,11 +1,11 @@
-# Code Cultivation - Object-Oriented Garden Systems
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python%203.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/Paradigm-OOP-red?style=for-the-badge" alt="OOP Paradigm">
   <img src="https://img.shields.io/badge/Linter-Flake8-green?style=for-the-badge" alt="Flake8 Standard">
   <img src="https://img.shields.io/badge/Type%20Checking-Mypy-orange?style=for-the-badge" alt="Mypy Checked">
 </p>
+
+# Code Cultivation - Object-Oriented Garden Systems
 
 **42 Málaga** | **Author:** jmesa-ci
 **Version:** 3.2
